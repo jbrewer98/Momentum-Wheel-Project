@@ -12,7 +12,8 @@ Arduino Microcontroller
 3-D Printed mountings for motor
 Laser cut momentum wheels
 
-Project inspired by Alan Ford's self balancing stick project. 
+Project inspired by Alan Ford's self balancing stick project, with much of the code coming from his
+project. 
 https://github.com/AlanFord/self-balancing-stick
 
 
